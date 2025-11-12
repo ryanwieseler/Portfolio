@@ -11,11 +11,8 @@ export function ComingSoon3() {
           <p className="text-slate-300 mb-12">Senior UX Designer</p>
           
           <div className="mb-12 max-w-xl">
-            <p className="text-slate-300 mb-4">
-              This portfolio is currently in stealth mode while I document years of solving complex design problems. 
-            </p>
-            <p className="text-slate-400">
-              Want to see my work now? My LinkedIn has the highlights reel.
+            <p className="text-slate-300">
+              Check back on Monday to see the full meal deal.
             </p>
           </div>
 

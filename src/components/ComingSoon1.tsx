@@ -15,8 +15,7 @@ export function ComingSoon1() {
         <div className="mb-12">
           <h2 className="text-slate-900 mb-4">Portfolio Under Construction</h2>
           <p className="text-slate-600 max-w-xl mx-auto">
-            Currently crafting case studies and polishing pixels. 
-            Good design takes time—check back soon to see the full collection.
+            Check back on Monday to see the full meal deal.
           </p>
         </div>
 

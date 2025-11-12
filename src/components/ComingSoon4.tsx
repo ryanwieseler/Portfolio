@@ -18,8 +18,7 @@ export function ComingSoon4() {
             
             <h2 className="text-slate-900 mb-4">Portfolio Loading...</h2>
             <p className="text-slate-600 mb-6">
-              My portfolio is currently being redesigned with the same attention to detail I bring to every project. 
-              Think of this as the low-fidelity prototype stage.
+              Check back on Monday to see the full meal deal.
             </p>
 
             <Button size="lg" asChild className="mb-4">

@@ -16,12 +16,8 @@ export function ComingSoon2() {
         
         <div className="bg-white rounded-2xl p-8 md:p-12 shadow-lg border border-slate-100 mb-8">
           <h2 className="text-slate-900 mb-4">The Portfolio Is In the Design Phase</h2>
-          <p className="text-slate-600 max-w-lg mx-auto mb-4">
-            I'm currently iterating on my portfolio experience (yes, even UX designers need multiple rounds of feedback). 
-            In the meantime, let's connect on LinkedIn where you can see what I've been shipping.
-          </p>
-          <p className="text-slate-500">
-            Expected launch: When it passes my own usability test 🎨
+          <p className="text-slate-600 max-w-lg mx-auto">
+            Check back on Monday to see the full meal deal.
           </p>
         </div>
 
